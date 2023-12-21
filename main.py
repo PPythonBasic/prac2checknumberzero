@@ -12,6 +12,3 @@ elif num_1 < 0 :
     print("The number you entered is negative")
 else:
     print("The number you entered is zero")
-
-git config --global user.email "andythongkipt26@gmail.com"
-git config --global user.name "andythongkipt"
